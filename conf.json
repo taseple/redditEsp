@@ -1,0 +1,21 @@
+{
+	"api": {
+		"reddit": {
+			"subreddits": ["rubius", "ibai", "elmiilloreddit", "iamcristinini", "lmdshow", "orslokx", "yointerneto", "folagoro"],
+			"account_username": "IbaiBot",
+			"account_password": "R1604Ibai",
+			"app_id": "iiAYZO9lGIb4iD1hSIvnEg",
+			"app_secret": "z9pbTtBRmPIIe-G22LP-SDYWl3N6KA"
+		},
+		"twitter": {
+			"api_key": "1sH7HxRZSRQLFAnScJZSpDZ4m",
+			"api_secret_key": "1P2xMPl0n1duTF0ZUDkPzNEEq1LRrlguaqO2YNmBvumvQHnAcK",
+			"access_token": "1493206761666396164-ilUbxeoDKvGjSyPidayVRrIVlaxCcK",
+			"access_token_secret": "a4gTz7ZwEKfDuYYoKH0cUqhxjWcemN2UTXxk79r5kx1GG"
+		}
+	},
+	"analysis": {
+		"strictness": 70,
+		"speed": 7
+	}
+}
