@@ -10,7 +10,6 @@ require (
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/corona10/goimagehash v1.0.3
 	github.com/dghubble/go-twitter v0.0.0-20210609183100-2fdbf421508e
-	github.com/dghubble/go-twitter/twitter v.0.0.0
 	github.com/dghubble/oauth1 v0.7.0
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
