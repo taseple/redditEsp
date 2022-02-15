@@ -1,4 +1,4 @@
-module github.com/iwuaizl/redditEsp
+module github.com/taseple/redditEsp
 
 replace github.com/dghubble/go-twitter => ./go-twitter
 
