@@ -2,7 +2,7 @@ module github.com/iwuaizl/redditEsp
 
 replace github.com/dghubble/go-twitter => ./go-twitter
 
-// +heroku goVersion 1.17.6
+// +heroku goVersion 1.12.6
 
 go 1.17.6
 
