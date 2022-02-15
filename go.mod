@@ -2,7 +2,7 @@ module github.com/iwuaizl/redditEsp
 
 replace github.com/dghubble/go-twitter => ./go-twitter
 
-go 1.16
+go 1.17.6
 
 require (
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
